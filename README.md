@@ -16,8 +16,8 @@ This is an **evaluation environment**, not a configuration generator.
 Writing on AI research, product thinking, and system architecture
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 **GitHub Repository:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)  
-🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-research-agent-demo)  
+🔗 **GitHub Repository:** [Configuration Review Agent](https://github.com/aditikhare007/Configuration-Review-Agent-OpenEnv)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/configuration-review-openenv)  
 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 
 ---
