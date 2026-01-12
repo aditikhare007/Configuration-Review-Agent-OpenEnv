@@ -1,2 +1,55 @@
-# Configuration-Review-Agent-OpenEnv
-Configuration Review Agent (OpenEnv)
+# 🧩 Configuration Review Agent (OpenEnv)
+
+This demo evaluates how an AI agent **reviews and validates configuration files under explicit rules**.
+
+The agent operates inside a **controlled OpenEnv** and is evaluated **step-by-step**, focusing on correctness, discipline, and termination behavior rather than generation.
+
+This is an **evaluation environment**, not a configuration generator.
+
+---
+⭐ **If you find this product useful, consider starring the repository to support the work.**
+---
+
+## 👩‍💻 Author
+
+**Aditi Khare — AI Product & Research Leader**  
+Writing on AI research, product thinking, and system architecture
+
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub Repository:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-research-agent-demo)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+
+---
+
+## Evaluation Scope
+
+The agent is assessed on its ability to:
+
+- **Required field checks**
+- **Value validation**
+- **Clarification behavior**
+- **Proper termination**
+
+---
+
+## What This Is
+
+- A **configuration review and validation demo**
+- A **rule-constrained agent evaluation environment**
+- A **deterministic, inspection-focused system**
+
+---
+
+## What This Is Not
+
+-  A configuration generator  
+-  A free-form autonomous agent  
+-  A prompt engineering tool  
+-  A chatbot  
+
+---
+
+## License
+
+© 2026 **Aditi Khare**. All rights reserved.
