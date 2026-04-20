@@ -6,19 +6,18 @@ The agent operates inside a **controlled OpenEnv** and is evaluated **step-by-st
 
 This is an **evaluation environment**, not a configuration generator.
 
----
-⭐ **If you find this product useful, consider starring the repository to support the work.**
----
-
 ## 👩‍💻 Author
 
-**Aditi Khare — AI Product & Research Leader**  
-Writing on AI research, product thinking, and system architecture
+**Aditi Khare — Enterprise AI Product, Platform & Applied Research Leader**  
+
+- Writing on AI research, product thinking, and system architecture
+
+## 🌐 Presence
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 🔗 **GitHub Repository:** [Configuration Review Agent](https://github.com/aditikhare007/Configuration-Review-Agent-OpenEnv)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/configuration-review-openenv)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
 ---
 
@@ -48,6 +47,10 @@ The agent is assessed on its ability to:
 -  A prompt engineering tool  
 -  A chatbot  
 
+---
+
+---
+⭐ **If you find this product useful, consider starring the repository to support the work.**
 ---
 
 ## License
