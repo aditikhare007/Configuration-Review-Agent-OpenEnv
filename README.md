@@ -49,10 +49,10 @@ The agent is assessed on its ability to:
 
 ---
 
----
-⭐ Support 
-**If you find this product useful, consider starring the repository to support the work.**
----
+## ⭐ Support  
+
+If this product is valuable, consider starring the repository to support  
+continued development of enterprise AI systems.
 
 ## License
 
