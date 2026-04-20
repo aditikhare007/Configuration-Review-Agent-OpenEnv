@@ -50,7 +50,8 @@ The agent is assessed on its ability to:
 ---
 
 ---
-⭐ **If you find this product useful, consider starring the repository to support the work.**
+⭐ Support 
+**If you find this product useful, consider starring the repository to support the work.**
 ---
 
 ## License
